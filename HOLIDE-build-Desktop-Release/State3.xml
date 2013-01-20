@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TransistionState>
+    <Name>State 3</Name>
+    <XPos>300</XPos>
+    <YPos>100</YPos>
+    <Phase></Phase>
+    <InputTheorems></InputTheorems>
+    <InferenceLogic></InferenceLogic>
+    <Conclusion></Conclusion>
+    <Haskell></Haskell>
+</TransistionState>
